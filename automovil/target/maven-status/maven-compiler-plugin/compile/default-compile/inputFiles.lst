@@ -1,0 +1,12 @@
+C:\Users\Santi\Documents\NetBeansProjects\Proyectos\automovil\src\main\java\com\mycompany\automovil\Automovil.java
+C:\Users\Santi\Documents\NetBeansProjects\Proyectos\automovil\src\main\java\com\mycompany\automovil\igu\AltaAutomovil.java
+C:\Users\Santi\Documents\NetBeansProjects\Proyectos\automovil\src\main\java\com\mycompany\automovil\igu\ModificarDatos.java
+C:\Users\Santi\Documents\NetBeansProjects\Proyectos\automovil\src\main\java\com\mycompany\automovil\igu\Principal.java
+C:\Users\Santi\Documents\NetBeansProjects\Proyectos\automovil\src\main\java\com\mycompany\automovil\igu\VerDatos.java
+C:\Users\Santi\Documents\NetBeansProjects\Proyectos\automovil\src\main\java\com\mycompany\automovil\logica\Automovil.java
+C:\Users\Santi\Documents\NetBeansProjects\Proyectos\automovil\src\main\java\com\mycompany\automovil\logica\Controladora.java
+C:\Users\Santi\Documents\NetBeansProjects\Proyectos\automovil\src\main\java\com\mycompany\automovil\persistencia\AutomovilJpaController.java
+C:\Users\Santi\Documents\NetBeansProjects\Proyectos\automovil\src\main\java\com\mycompany\automovil\persistencia\ControladoraPersistencia.java
+C:\Users\Santi\Documents\NetBeansProjects\Proyectos\automovil\src\main\java\com\mycompany\automovil\persistencia\exceptions\IllegalOrphanException.java
+C:\Users\Santi\Documents\NetBeansProjects\Proyectos\automovil\src\main\java\com\mycompany\automovil\persistencia\exceptions\NonexistentEntityException.java
+C:\Users\Santi\Documents\NetBeansProjects\Proyectos\automovil\src\main\java\com\mycompany\automovil\persistencia\exceptions\PreexistingEntityException.java
